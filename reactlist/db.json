@@ -1,0 +1,13 @@
+{
+  "taskpoint": [
+    {
+      "descricao": "Vai Corinthians 1910",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "descricao": "sciueufnisefu"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
